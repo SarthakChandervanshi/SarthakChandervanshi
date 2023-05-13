@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarthak chandervanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak chandervanshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarthak chandervanshi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sarthak chandervanshi" width="40" height="40"/></a>
 <a href="https://www.leetcode.com/sarthakchandervanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthakchandervanshi" height="30" width="40" /></a>
 </p>
 
